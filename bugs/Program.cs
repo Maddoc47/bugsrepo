@@ -51,6 +51,15 @@ namespace bugs
 
             Console.WriteLine("{0} - {1}", BugList[0], BugList[1]);
             Console.WriteLine("{0} - {1}", BugList[1], BugList[2]);
+
+            Console.WriteLine("{0} - {1}", BugList[1], BugList[2]);
+            Console.WriteLine("{0} - {1}", BugList[1], BugList[2]);
+            Console.WriteLine("Wooooop wooop wooop");
+            Console.WriteLine("Wooooop wooop wooop");
+            Console.WriteLine("Wooooop wooop wooop");
+            Console.WriteLine("Wooooop wooop wooop");
+            Console.WriteLine("Wooooop wooop wooop");
+            Console.WriteLine("Wooooop wooop wooop");
             Console.ReadLine();
         }
     }
