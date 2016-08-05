@@ -1,0 +1,6 @@
+H:\Development\C#\exploring c#\bugs\bugs\bin\Debug\bugs.exe.config
+H:\Development\C#\exploring c#\bugs\bugs\bin\Debug\bugs.exe
+H:\Development\C#\exploring c#\bugs\bugs\bin\Debug\bugs.pdb
+H:\Development\C#\exploring c#\bugs\bugs\obj\Debug\bugs.csprojResolveAssemblyReference.cache
+H:\Development\C#\exploring c#\bugs\bugs\obj\Debug\bugs.exe
+H:\Development\C#\exploring c#\bugs\bugs\obj\Debug\bugs.pdb
